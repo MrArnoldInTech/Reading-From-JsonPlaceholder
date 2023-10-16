@@ -1,11 +1,6 @@
-// 9th May 2023 When this was orginally done
-// Arnold Fruish Application Response
-/*
-9th May 2023 When this was orginally done
+/* 9th May 2023 When this was originally done
  Arnold Fruish Application Response
- This was Porject for on of my job interview questions. Desing
-
-
+ This was mini project response I had to do for a job interview.
  */
 import org.json.JSONArray;
 import org.json.JSONObject;
